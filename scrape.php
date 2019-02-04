@@ -2,9 +2,6 @@
 
 /**
  * @author Ammar Faizi <ammarfaizi2@gmail.com> https://www.facebook.com/ammarfaizi2
- */
-
-/**
  * @param string $url
  * @param array  $opt
  * @return array
