@@ -73,4 +73,6 @@ foreach ($m[1] as $k => &$v) {
 }
 unset($v, $m);
 
+printf("<pre>\n");
 print_r($data);
+printf("\n</pre>");
